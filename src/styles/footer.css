@@ -1,0 +1,76 @@
+.footer-outermost {
+    background: #2864F0;
+    height: 430px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+    position: relative;
+    padding: 15px;
+}
+.fotter{
+    margin: auto auto;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.footer-column-1 {
+    margin: auto 0px;
+    height: 100px;
+}
+
+.footer-column-1 .logo-div h1 {
+    align-self: flex-start;
+    align-content: start;
+}
+
+
+.footer-column-2 {
+    height: 100px;
+    margin: auto 0px;
+    /* height: 200px; */
+}
+
+.footer-column-3 {
+    height: 100px;
+    margin: auto 0px;
+    /* height: 200px; */
+}
+
+.footer-column-4 {
+    height: 100px;
+    margin: auto 0px;
+    /* height: 200px; */
+}
+.newsletter-btn{
+
+    position: relative;
+}
+.newsletter-btn .input-newsletter {
+    border-radius: 4px;
+    background: #FFF;
+    border: none;
+    width: 100%;
+    padding: 12.783px 19.174px;
+    border-bottom-right-radius:23.968px ;
+}
+
+.newsletter-btn .btn-newsletter {
+    position: absolute;
+    right: 0;
+    color: #fff;
+    height: 49.533px;
+    padding: 12.783px 19.174px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 23.968px 0px;
+    background: #0D3490;
+    border: none;
+}
+.fotter-svg{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
