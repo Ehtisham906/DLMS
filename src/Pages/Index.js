@@ -135,7 +135,7 @@ function Hero() {
                     <div className='goals-div'>
                         <div className='goals-div-inner'>
                             <img src={savemoney} alt="" />
-                            <h5>Save Moneys</h5>
+                            <h5>Save Money</h5>
                             <h6 className='text-center  align-items-start'>
                                 <img src={goalicon} alt="" />
                                 <span className='mx-1'>Spend less money on your learning if you plan to take multiple courses this year
